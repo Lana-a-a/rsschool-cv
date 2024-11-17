@@ -1,0 +1,74 @@
+img {
+    width: 300px;
+}
+
+main {
+    display: flex;
+    gap: 50px;
+}
+
+h1{
+    font-size: 45px;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    color: beige;
+}
+
+svg {
+    width: 300px;
+}
+
+h2{
+    font-size: 20px;
+}
+
+footer {
+    margin-top: -10px;
+    width: 1050px;
+    background-color: bisque;
+}
+
+li {
+    font-size: 15px;
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.section1 li{
+    color: beige;
+}
+
+.section1 h3{
+    color: beige;
+}
+
+.section2{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    background-color: #E39E09;
+    width: 700px;
+}
+
+.section1 { 
+    background-color: #400F17;
+}
+
+p {
+    font-size: 15px;
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+
+
+
+
+
+
+
+
+    
