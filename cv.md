@@ -13,7 +13,7 @@
 
 ---
 
-### **About Me:***
+### **About Me:**
 
 Proficient in digital tools for workflow management. Strong organizational and administrative skills. Proven ability to manage and resolve customer inquiries effectively. 
 Excellent interpersonal and communication abilities.
