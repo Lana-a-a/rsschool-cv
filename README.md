@@ -1,1 +1,1 @@
-https://Lana-a-a.github.io/rsschool-cv/cv
+https://lana-a-a.github.io/rsschool-cv/
